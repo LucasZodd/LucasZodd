@@ -7,11 +7,10 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    Formado em Sistema de Informação. tenho 2 anos de experiência em Analista de Suporte, atualmente trabalho como Analista de   Suporte 1º Nível prestando suporte aos usuários via acesso remoto, telefone e chat e e-mail no Supremo Tribunal Federal.
+  Estagiei no STF por 2 anos realizando as tarefas de:
+  Atualizar páginas na internet, auxiliar no gerenciamento de banco de dados, auxiliar na instalação de rede e análise de chamados de suporte técnico da Central Nacional de      Atendimento Eletrônico da Justiça do Trabalho.
+  Tenho certificação HDI-SCA e Windows 10 MD-100, cursos extra de Modelagem de Dados.
   </em>  
 </p>
 
