@@ -1,5 +1,7 @@
 # Lucas Silva  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+
 <p>
   <em>
     Formado em Sistema de Informação. tenho 2 anos de experiência em Analista de Suporte, atualmente trabalho como Analista de   Suporte 1º Nível prestando suporte aos usuários via acesso remoto, telefone e chat e e-mail no Supremo Tribunal Federal.
@@ -8,8 +10,6 @@
   Tenho certificação HDI-SCA e Windows 10 MD-100, cursos extra de Modelagem de Dados.
   </em>  
 </p>
-
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
 <br>
 
