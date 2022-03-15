@@ -43,13 +43,3 @@ MySQL, SQL ORACLE, HTML5, CSS3, PHP, JAVA, javascript</strong>
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-nascimento-14a4b4139/" /></a>
 
 
-
-</p>
-
-<br>
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-<br>
-
-
