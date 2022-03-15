@@ -9,9 +9,40 @@
   </em>  
 </p>
 
-<br>
+<br><br>
+
+<p align="left">
+
+6️⃣ Linguagens: <strong>
+MySQL, SQL ORACLE, HTML5, CSS3, PHP, JAVA, javascript</strong>
+</p>
 
 
+
+<p align="left">
+💼 Ferramentas: <strong>Active Directory/LDAP, Admin Center do Microsoft 365, Azure AD Connect, Centro de administração do Exchange, Office 365, Windows 10, Jira e Confluence, SEI, SIP, INCON, Malote Digital.</strong>
+</p>
+
+
+
+<p align="left">
+💌 Mande uma mensagem: ⤵️
+</p>
+
+
+
+<p align="left">
+<a href="mailto:pklucasds@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=GMAIL" /></a>
+
+
+
+<a href="https://www.linkedin.com/notifications/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-nascimento-14a4b4139/" /></a>
+
+
+
+</p>
 
 <br>
 
@@ -19,15 +50,4 @@
 
 <br>
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
-
-
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/thedudethatcode) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-
-
-<br>
-<br>
 
