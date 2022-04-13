@@ -16,7 +16,7 @@
 <p align="left">
 
 6️⃣ Linguagens: <strong>
-MySQL, SQL ORACLE, HTML5, CSS3, PHP, JAVA, javascript</strong>
+MySQL, SQL ORACLE, HTML5, CSS3, PHP, JAVA, Angular, javascript</strong>
 </p>
 
 
