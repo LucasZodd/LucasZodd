@@ -4,31 +4,31 @@
 
 <p>
   <em>
-    Formado em Sistema de Informação. tenho 2 anos de experiência em Analista de Suporte, atualmente trabalho como Analista de   Suporte 1º Nível prestando suporte aos usuários via acesso remoto, telefone e chat e e-mail no Supremo Tribunal Federal.
-  Estagiei no STF por 2 anos realizando as tarefas de:
-  Atualizar páginas na internet, auxiliar no gerenciamento de banco de dados, auxiliar na instalação de rede e análise de chamados de suporte técnico da Central Nacional de      Atendimento Eletrônico da Justiça do Trabalho.
-  Tenho certificação HDI-SCA e Windows 10 MD-100, cursos extra de Modelagem de Dados.
+    Formado em Sistema de Informação. tenho 3 anos de experiência em Analista de Suporte e atualmente estou trabalhando como desenvolvedor full stack de Java e Angular.
+   Estou a 3 messês trabalhando nas linguagems Java utilizando o frameworks SpringBoot e Angula para a empresa Basis Tecbologia no contrato da Presidência da República.
   </em>  
 </p>
 
 <br>
 
 <p align="left">
+ 6️⃣ Linguagens: <strong>
+ MySQL, NoSQL, HTML5, CSS3, PHP, JAVA, Angular, typescript</strong>
+</p>
 
-6️⃣ Linguagens: <strong>
-MySQL, SQL ORACLE, HTML5, CSS3, PHP, JAVA, Angular, javascript</strong>
+<p align="left">
+:file_folder: Bancos:  <strong>
+ PostgreSQL, Mongodb e Neo4j.
+</p>
+
+<p align="left">
+ 💼 Ferramentas: <strong>Docker Compose, Rancher, Jenkins, Kafka, Active Directory/LDAP, Azure AD Connect, Centro de administração do Exchange, Office  365, Jira e Confluence</strong>
 </p>
 
 
 
 <p align="left">
-💼 Ferramentas: <strong>Active Directory/LDAP, Admin Center do Microsoft 365, Azure AD Connect, Centro de administração do Exchange, Office 365, Windows 10, Jira e Confluence, SEI, SIP, INCON, Malote Digital.</strong>
-</p>
-
-
-
-<p align="left">
-💌 Mande uma mensagem: ⤵️
+ 💌 Mande uma mensagem: ⤵️
 </p>
 
 
