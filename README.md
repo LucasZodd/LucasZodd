@@ -4,8 +4,8 @@
 
 <p>
   <em>
-    Formado em Sistema de Informação. tenho 3 anos de experiência em Analista de Suporte e atualmente estou trabalhando como desenvolvedor full stack de Java e Angular.
-   Estou a 3 messês trabalhando nas linguagems Java utilizando o frameworks SpringBoot e Angula para a empresa Basis Tecbologia no contrato da Presidência da República.
+    Formado em Sistema de Informação. tenho 3 anos de experiência em Analista de Suporte.
+    Atualmente estou a 3 meses trabalhando como full stack utilizando as linguagems Java e Angular com o framework SpringBoot na empresa Basis Tecbologia no contrato da Presidência da República.
   </em>  
 </p>
 
