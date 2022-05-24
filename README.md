@@ -39,7 +39,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/lucas-silva-aa740610b/" alt="Linkedin">
+<a href="https://www.linkedin.com/in/lucas-henrique-da-silva-aa740610b/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-nascimento-14a4b4139/" /></a>
 
 
