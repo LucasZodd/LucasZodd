@@ -4,8 +4,8 @@
 
 <p>
   <em>
-    Formado em Sistema de Informação. tenho 3 anos de experiência em Analista de Suporte e atualmente estou a 3 meses trabalhando como full stack na Basis Tecbologia para o contrato da Presidência da República, utilizo às linguagems Java e Angular, com o framework SpringBoot e trabalho com os bancos PostgreSQL, Mongodb e Neo4 pelo Docker Compose.
-  </em>  
+    Formado em Sistema de Informação. tenho 3 anos de experiência em Analista de Suporte e atualmente estou a 3 meses trabalhando como full stack na Basis Tecnologia para o contrato da Presidência da República, utilizo às linguagens Java e Angular, com o framework SpringBoot e trabalho com os bancos PostgreSQL, Mongodb e Neo4 pelo Docker Compose.
+  </em> 
 </p>
 
 <br>
