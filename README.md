@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
- 💼 Ferramentas: <strong>Docker Compose, Rancher, Jenkins, Kafka, Active Directory/LDAP, Azure AD Connect, Centro de administração do Exchange, Office  365, Jira e Confluence</strong>
+ 💼 Ferramentas: <strong>Docker Compose, Rancher, Jenkins, Kafka, Active Directory/LDAP, Azure AD Connect, Centro de administração do Exchange, Jira e Confluence</strong>
 </p>
 
 
