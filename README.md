@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    Formado em Sistema de Informação. Estou a 4 anos ná área da TI, atualmente trabalhando como full stack na Basis Tecnologia para o contrato da Presidência da República, utilizo às linguagens Java e Angular, com o framework SpringBoot e trabalho com os bancos PostgreSQL, Mongodb e Neo4 pelo Docker Compose.
+    Formado em Sistema de Informação. Estou a 4 anos ná área da TI, atualmente trabalhando como full stack na Fundação RTVE para a UFG, utilizo às linguagens Python e JavaScript, com o framework Django e trabalho com os banco MySQL.
   </em> 
 </p>
 
@@ -12,12 +12,12 @@
 
 <p align="left">
  6️⃣ Linguagens: <strong>
- MySQL, NoSQL, HTML5, CSS3, PHP, JAVA, Angular, typescript</strong>
+ Python, JavaScript, MySQL, NoSQL, HTML5, CSS3, PHP, JAVA, Angular, typescript</strong>
 </p>
 
 <p align="left">
 :file_folder: Bancos:  <strong>
- PostgreSQL, Mongodb e Neo4j.
+ PostgreSQL, Mongodb e Neo4j, Redis, MySQL.
 </p>
 
 <p align="left">
