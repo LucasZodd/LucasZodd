@@ -4,24 +4,32 @@
 
 <p>
   <em>
-    Formado em Sistema de Informação. Estou a 4 anos ná área da TI, atualmente trabalhando como full stack na Fundação RTVE para a UFG, utilizo às linguagens Python e JavaScript, com o framework Django e trabalho com os banco MySQL.
+   Sou formado em Sistemas de Informação e atuo há mais de 6 anos na área de Tecnologia da Informação. Atualmente, trabalho como desenvolvedor Full Stack no projeto CETT, atendendo à Universidade Federal de Goiás (UFG). Tenho experiência sólida no desenvolvimento de aplicações web utilizando Python e JavaScript, com foco no framework Django e        banco de dados MySQL.
+
+   Minha atuação envolve tanto o back-end quanto o front-end, com conhecimento prático em diversas linguagens, frameworks e ferramentas modernas do ecossistema de desenvolvimento.
   </em> 
 </p>
 
 <br>
 
 <p align="left">
- 6️⃣ Linguagens: <strong>
- Python, JavaScript, MySQL, NoSQL, HTML5, CSS3, PHP, JAVA, Angular, typescript</strong>
+ 6️⃣ Linguagens: 
+  <strong>
+     Python, JavaScript, MySQL, NoSQL, HTML5, CSS3, PHP, JAVA, Angular, typescript
+  </strong>
 </p>
 
 <p align="left">
-:file_folder: Bancos:  <strong>
- PostgreSQL, Mongodb e Neo4j, Redis, MySQL.
+:file_folder: Bancos:
+  <strong>
+   PostgreSQL, Mongodb e Neo4j, Redis, MySQL.
+  </strong>
 </p>
 
 <p align="left">
- 💼 Ferramentas: <strong>Docker Compose, Rancher, Jenkins, Kafka, Active Directory/LDAP, Azure AD Connect, Centro de administração do Exchange, Jira e Confluence</strong>
+  <strong>
+  💼 Ferramentas: <strong>Docker Compose, Rancher, Jenkins, Kafka, Active Directory/LDAP, Azure AD Connect, Centro de administração do Exchange, Jira e Confluence
+  </strong>
 </p>
 
 
